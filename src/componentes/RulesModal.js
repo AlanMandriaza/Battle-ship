@@ -16,7 +16,7 @@ const RulesModal = ({ isOpen, toggle }) => {
         </ul>
       </ModalBody>
       <div className="text-center">
-        <Button color="secondary" className="btn-sm m-4" style={{ width: '10rem' }} onClick={toggle}>Comenzar</Button>
+        <Button color="primary" className="btn-sm m-4" style={{ width: '10rem' }} onClick={toggle}>Comenzar</Button>
       </div>
     </Modal>
   );
