@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlanMandriaza/battle-ship.git/static/css/main.3d3f2ae0.css",
+    "main.js": "/AlanMandriaza/battle-ship.git/static/js/main.bb73344b.js",
+    "index.html": "/AlanMandriaza/battle-ship.git/index.html",
+    "main.3d3f2ae0.css.map": "/AlanMandriaza/battle-ship.git/static/css/main.3d3f2ae0.css.map",
+    "main.bb73344b.js.map": "/AlanMandriaza/battle-ship.git/static/js/main.bb73344b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3f2ae0.css",
+    "static/js/main.bb73344b.js"
+  ]
+}
