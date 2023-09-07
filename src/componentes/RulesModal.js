@@ -15,9 +15,11 @@ const RulesModal = ({ isOpen, toggle }) => {
           <li>Cuando un disparo alcanza un barco la celda se torna roja, y si el disparo cae en el agua se torna celeste.</li>
         </ul>
       </ModalBody>
-      <Button color="primary" className="btn-sm " onClick={toggle}>Comenzar</Button>
+      <div className="text-center">
+        <Button color="primary" className="btn-sm m-4" style={{ width: '10rem' }} onClick={toggle}>Comenzar</Button>
+      </div>
     </Modal>
   );
 };
-
+  
 export default RulesModal;
