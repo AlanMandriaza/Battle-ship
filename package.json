@@ -2,7 +2,7 @@
   "name": "battle-ship",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/AlanMandriaza/battle-ship",
+  "homepage": "http://AlanMandriaza.github.io/battle-ship",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
